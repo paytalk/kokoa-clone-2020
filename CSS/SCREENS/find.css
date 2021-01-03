@@ -30,3 +30,12 @@
   font-size: 18px;
   color: rgba(0, 0, 0, 0.5);
 }
+.open-chat__header {
+  display: flex;
+  justify-content: space-between;
+  opacity: 0.8;
+}
+.open-chat__header span {
+  opacity: 0.6;
+  margin-bottom: 25px;
+}
