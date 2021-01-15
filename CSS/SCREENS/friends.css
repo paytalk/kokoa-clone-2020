@@ -37,7 +37,11 @@
 }
 
 #splash-screen {
+<<<<<<< HEAD
   background-color: rgb(252, 24, 24);
+=======
+  background-color: rgb(255, 255, 255);
+>>>>>>> master
   position: absolute;
   height: 100vh;
   width: 100vw;
