@@ -26,6 +26,7 @@
   justify-content: space-between;
   color: rgba(0, 0, 0, 0.3);
 }
+<<<<<<< HEAD
 @keyframes hideSplashScreen {
   form {
     opacity: 1;
@@ -54,3 +55,5 @@
   animation: hideSplashScreen 0.4s ease-in-out forwards;
   animation-delay: 0.8s;
 }
+=======
+>>>>>>> parent of a778a43... 21.1.15완료
